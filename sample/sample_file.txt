@@ -1,0 +1,4 @@
+Ini adalah
+contoh file
+yang akan dicopy
+menggunakan program
